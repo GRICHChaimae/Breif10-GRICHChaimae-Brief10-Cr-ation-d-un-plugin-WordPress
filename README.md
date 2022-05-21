@@ -28,17 +28,19 @@ Cliquez Choose File:
 <img width="959" alt="choose file" src="https://user-images.githubusercontent.com/93976924/169659887-f6ebf40c-a0cf-434b-9773-5f3ea98cd844.png">
 
 Vous trouverez ce dossier zip dans ce référentiel:
+
 <img width="960" alt="upload" src="https://user-images.githubusercontent.com/93976924/169659960-fa705dd4-f60f-466b-81b7-1de0278dc9da.png">
 
 activer le plugin:
+
 <img width="454" alt="active the plugin" src="https://user-images.githubusercontent.com/93976924/169659980-49169922-b8ca-4c08-8da5-e0be146a0428.png">
 
 Comment utiliser le plug-in :
+
 Cliquez ici et mettez vos informations: 
 <img width="958" alt="putInfo" src="https://user-images.githubusercontent.com/93976924/169660085-fab8666d-7303-48cb-95ac-de0c46908a6a.png">
+
 enregistrez les informations
 et voilà:
-
-
 
 <img width="959" alt="footer" src="https://user-images.githubusercontent.com/93976924/169660251-e7a0dfd9-f765-4340-a161-04558cc70bd9.png">
